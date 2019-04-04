@@ -2,9 +2,9 @@
 *Files to look at*:
 
 * [CustomPager.ascx](./CS/WebSite/CustomPager.ascx) (VB: [CustomPager.ascx](./VB/WebSite/CustomPager.ascx))
-* [CustomPager.ascx.cs](./CS/WebSite/CustomPager.ascx.cs) (VB: [CustomPager.ascx](./VB/WebSite/CustomPager.ascx))
+* [CustomPager.ascx.cs](./CS/WebSite/CustomPager.ascx.cs) (VB: [CustomPager.ascx.vb](./VB/WebSite/CustomPager.ascx.vb))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Create ASPxGridView with a custom pager and the "Selecting a page size" feature at runtime
 
