@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Create ASPxGridView with a custom pager and the "Selecting a page size" feature at runtime
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4802/)**
+<!-- run online end -->
 
 
 <p>A custom pager implementation can be performed by using separate controls. However, under certain circumstances (due to the control hierarchy recreation), it is difficult to implement this feature using a server-side code only.</p><p>This example demonstrates how to achieve the desired result using ASPxComboBoxes within the PageBar template.</p><p><strong>See Also:</strong><strong><br />
